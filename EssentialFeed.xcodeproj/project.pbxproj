@@ -127,8 +127,8 @@
 		C93DA9362847AC6200E7071F /* EssentialFeedTests */ = {
 			isa = PBXGroup;
 			children = (
-				C9C1EFF92875C51300B574C6 /* Feed Cache */,
 				C900F551285F8A1000FDEF72 /* Helpers */,
+				C9C1EFF92875C51300B574C6 /* Feed Cache */,
 				C9C1EFFC2875C72300B574C6 /* Feed API */,
 			);
 			path = EssentialFeedTests;
