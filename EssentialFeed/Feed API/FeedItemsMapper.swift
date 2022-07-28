@@ -25,4 +25,3 @@ internal class FeedItemsMapper {
         return root.items
     }
 }
-
